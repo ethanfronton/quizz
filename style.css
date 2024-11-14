@@ -1,0 +1,35 @@
+body {
+    margin: auto;
+    background-color: brown;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 6.5em;
+    display: flex;
+    justify-content: center;
+
+}
+.main p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 3.5em;
+    display: flex;
+    justify-content: center;
+}
+.choose-level h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 3.5em;
+    display: flex;
+    justify-content: center;
+}
+.choose-level {
+    display: flex;
+    justify-items: center;
+}
+
+.easy h3 {
+
+}
